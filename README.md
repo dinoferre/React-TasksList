@@ -24,4 +24,8 @@
 
 -Tailiwind
 
-Link del proyecto en About 👉
+Dino Ferré 👽
+
+Link del proyecto 👇
+
+https://dinoferre.github.io/React-TasksList/
